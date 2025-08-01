@@ -51,7 +51,7 @@
 
                 <div class="tutor-list">
                     <div class="kartu-tutor">
-                        <iframe  style="border: none;" height="800" width="1000" src="http://localhost:8084/mapstore/dashboard-embedded.html#/40"></iframe>
+                        <iframe  style="border: none;" height="800" width="1000" src="https://0448c743784a.ngrok-free.app/mapstore/dashboard-embedded.html#/40"></iframe>
                         <p>Peta Persebaran ATM di Kelurahan Tembalang</p>
                     </div>
                 </div>
